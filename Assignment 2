@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Forms</title>
+</head>
+<body>
+    <input placeholder="username" type="text"><br><br>
+    <input placeholder="email" type="email"><br><br>
+    <input placeholder="password" type="password">
+    <br><br>
+    agree terms & conditions
+    <input type="checkbox"><br><br>
+    <button>submit </button>
+</body>
+</html>
